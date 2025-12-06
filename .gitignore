@@ -1,0 +1,11 @@
+# Ignorar arquivos de cache e dados
+__pycache__/
+*.pyc
+*.json # Ignorar likes.json
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
